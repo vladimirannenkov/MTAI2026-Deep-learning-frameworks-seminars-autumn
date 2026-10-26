@@ -53,3 +53,13 @@
 ## Семинар 2: Операторы в PyTorch
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars-autumn/blob/main/seminar_2/MTAI2026_Seminar2_PyTorch_Operators.ipynb)
+
+
+## Семинар 3: GPGPU 
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars-autumn/blob/main/seminar_3/MTAI2026_Seminar_3_GPGPU.ipynb)
+
+## Семинар 4: Пруннинг
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/v3code/MTAI2026-Deep-learning-frameworks-seminars-autumn/blob/main/seminar_4/Prunning.ipynb)
+
